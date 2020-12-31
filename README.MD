@@ -1,5 +1,5 @@
 # Creating a RESTful API with Node.js
-This repository accompanies my YouTube video series on building a RESTful API with Node.js: [https://github.com/academind/node-restful-api-tutorial.git](https://github.com/academind/node-restful-api-tutorial.git)
+This repository accompanies my YouTube video series on building a RESTful API with Node.js: [https://github.com/ignatius22/Node-api.git](https://github.com/ignatius22/Node-api)
 
 ## Usage
 Check out the branch you're interested in (i.e. which belongs to the video in my series you just watched), ```git clone``` it and thereafter run ```npm install```.
